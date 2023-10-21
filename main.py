@@ -59,4 +59,4 @@ for word in sorted_list:
         file.write(f"{word[0]} - {word[1]}\n")
 
 
-#mundo
+#mun
